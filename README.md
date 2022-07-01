@@ -2,7 +2,7 @@
 Calculates Your Weight on Other Planets
 
 
-Kullanılan Kütüphaneler->
+Libraries->
 ViewBinding,
 Glide
 
